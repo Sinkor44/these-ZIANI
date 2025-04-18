@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Thèse de ZIANI Mouhsine</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 2em;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #0366d6;
+      color: white;
+      padding: 1em;
+      border-radius: 8px;
+    }
+    section {
+      margin-top: 2em;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Thèse de Doctorat – ZIANI Mouhsine</h1>
+    <p>Radar Automobile • 2D FFT • Traitement du Signal</p>
+  </header>
+
+  <section>
+    <h2>À propos</h2>
+    <p>Ce site présente les travaux de recherche liés à l’estimation de la vitesse via radar automobile (FMCW) en utilisant la transformée de Fourier 2D.</p>
+  </section>
+
+  <section>
+    <h2>Chapitres</h2>
+    <ul>
+      <li>📡 Introduction aux radars automobiles</li>
+      <li>⚙️ Modélisation du signal radar chirp</li>
+      <li>📊 2D FFT pour estimation de vitesse</li>
+      <li>🧠 Traitement de signal avancé</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>ziani.mouhsine@exemple.com</p>
+  </section>
+</body>
+</html>
